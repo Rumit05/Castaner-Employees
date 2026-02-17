@@ -1,9 +1,12 @@
-api_version = "2024-07"
+api_version = "2025-07"
 
 [[extensions]]
 handle = "customer-discount"
 name = "t:name"
 description = "t:description"
+
+uid = "3282a800-9293-1781-6d64-69894e9ff7f54d1265d8"
+
 type = "function"
 
   [[extensions.targeting]]

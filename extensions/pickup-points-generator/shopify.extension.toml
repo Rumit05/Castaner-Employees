@@ -3,6 +3,9 @@ api_version = "unstable"
 [[extensions]]
 name = "GLS"
 handle = "GLS"
+
+uid = "ed1be157-e016-ea8f-f2ae-0bf791cc5b2c514610e7"
+
 type = "function"
 
 

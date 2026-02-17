@@ -3,9 +3,12 @@
 
 # The version of APIs your extension will receive. Learn more:
 # https://shopify.dev/docs/api/usage/versioning
-api_version = "2024-10"
+api_version = "2025-07"
 
 [[extensions]]
+
+uid = "6554bb94-4702-6408-8cdb-7a9e3a1a02148ce210dc"
+
 type = "ui_extension"
 name = "castaner-checkout-extension"
 handle = "castaner-checkout-extension"

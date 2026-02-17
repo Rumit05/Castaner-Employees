@@ -2,13 +2,12 @@
 
 client_id = "d6aa2feb73f46a7ea05d4f24b5ab8a1e"
 name = "Castaner Extension"
-application_url = "https://tulsa-guaranteed-massage-hairy.trycloudflare.com"
+application_url = "https://mutual-download-calculation-endangered.trycloudflare.com"
 embedded = true
 
 [build]
 automatically_update_urls_on_dev = true
 dev_store_url = "ohd-mcc-development.myshopify.com"
-include_config_on_deploy = true
 
 [access_scopes]
 # Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
@@ -16,9 +15,9 @@ scopes = "read_content,read_customer_events,read_customers,read_delivery_customi
 
 [auth]
 redirect_urls = [
-  "https://tulsa-guaranteed-massage-hairy.trycloudflare.com/auth/callback",
-  "https://tulsa-guaranteed-massage-hairy.trycloudflare.com/auth/shopify/callback",
-  "https://tulsa-guaranteed-massage-hairy.trycloudflare.com/api/auth/callback"
+  "https://mutual-download-calculation-endangered.trycloudflare.com/auth/callback",
+  "https://mutual-download-calculation-endangered.trycloudflare.com/auth/shopify/callback",
+  "https://mutual-download-calculation-endangered.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
